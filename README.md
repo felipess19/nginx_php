@@ -1,12 +1,12 @@
 # nginx_php
 Tutorial inicial Docker, Nginx, PHP, MySQL
 
-#Pré-requisito
+# Pré-requisito
 * Docker
 * Docker-compose
 * Git
 
-#Executando no Windows
+# Executando no Windows
 
 mkdir C:\Desenv
 cd C:\Desenv
